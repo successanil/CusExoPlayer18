@@ -18,8 +18,8 @@ if (gradle.ext.has('exoplayerModulePrefix')) {
     modulePrefix += gradle.ext.exoplayerModulePrefix
 }
 
-include modulePrefix + 'demo'
-project(modulePrefix + 'demo').projectDir = new File(rootDir, 'demos/main')
+include modulePrefix + 'demoexoplayer'
+project(modulePrefix + 'demoexoplayer').projectDir = new File(rootDir, 'demos/main')
 include modulePrefix + 'demo-cast'
 project(modulePrefix + 'demo-cast').projectDir = new File(rootDir, 'demos/cast')
 include modulePrefix + 'demo-gl'
@@ -32,4 +32,8 @@ project(modulePrefix + 'demo-transformer').projectDir = new File(rootDir, 'demos
 include modulePrefix + 'playbacktests'
 project(modulePrefix + 'playbacktests').projectDir = new File(rootDir, 'playbacktests')
 
+
+include ':exoplayerdebugtest'
+
 apply from: 'core_settings.gradle'
+
