@@ -29,7 +29,6 @@ import com.google.android.exoplayer2.Format;
 import com.google.android.exoplayer2.MediaItem;
 import com.google.android.exoplayer2.RenderersFactory;
 import com.google.android.exoplayer2.Tracks;
-import com.google.android.exoplayer2.demo.R;
 import com.google.android.exoplayer2.drm.DrmInitData;
 import com.google.android.exoplayer2.drm.DrmSession;
 import com.google.android.exoplayer2.drm.DrmSessionEventListener;

@@ -34,7 +34,7 @@ import androidx.viewpager.widget.ViewPager;
 import com.google.android.exoplayer2.C;
 import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.Tracks;
-import com.google.android.exoplayer2.demo.R;
+import com.relsellglobal.android.exoplayer2.demo.R;
 import com.google.android.exoplayer2.source.TrackGroup;
 import com.google.android.exoplayer2.trackselection.TrackSelectionOverride;
 import com.google.android.exoplayer2.trackselection.TrackSelectionParameters;

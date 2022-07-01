@@ -20,7 +20,6 @@ import com.google.android.exoplayer2.DefaultRenderersFactory;
 import com.google.android.exoplayer2.RenderersFactory;
 import com.google.android.exoplayer2.database.DatabaseProvider;
 import com.google.android.exoplayer2.database.StandaloneDatabaseProvider;
-import com.google.android.exoplayer2.demo.BuildConfig;
 import com.google.android.exoplayer2.ext.cronet.CronetDataSource;
 import com.google.android.exoplayer2.ext.cronet.CronetUtil;
 import com.google.android.exoplayer2.offline.DownloadManager;

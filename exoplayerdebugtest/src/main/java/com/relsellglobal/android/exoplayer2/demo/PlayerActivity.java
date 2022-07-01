@@ -37,7 +37,7 @@ import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.RenderersFactory;
 import com.google.android.exoplayer2.Tracks;
 import com.google.android.exoplayer2.audio.AudioAttributes;
-import com.google.android.exoplayer2.demo.R;
+import com.relsellglobal.android.exoplayer2.demo.R;
 import com.google.android.exoplayer2.drm.DefaultDrmSessionManagerProvider;
 import com.google.android.exoplayer2.drm.FrameworkMediaDrm;
 

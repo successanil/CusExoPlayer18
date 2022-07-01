@@ -47,7 +47,7 @@ import com.google.android.exoplayer2.MediaItem;
 import com.google.android.exoplayer2.MediaItem.ClippingConfiguration;
 import com.google.android.exoplayer2.MediaMetadata;
 import com.google.android.exoplayer2.RenderersFactory;
-import com.google.android.exoplayer2.demo.R;
+import com.relsellglobal.android.exoplayer2.demo.R;
 import com.google.android.exoplayer2.offline.DownloadService;
 import com.google.android.exoplayer2.upstream.DataSource;
 import com.google.android.exoplayer2.upstream.DataSourceInputStream;
